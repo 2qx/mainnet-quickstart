@@ -1,0 +1,9 @@
+slides/_minted-bchQuickStart/
+texput.log
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
